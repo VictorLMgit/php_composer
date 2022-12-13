@@ -33,5 +33,7 @@
     },
     "scripts-descriptions": {
         "cs": "Executa o comando phpcs --standard=PSR12 src/"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["index.php"]
 }
